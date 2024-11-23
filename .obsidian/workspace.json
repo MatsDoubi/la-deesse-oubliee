@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commun/Les Pourfendeurs de l'ombre/Tome 2 - Un nouveau monde/Chapitre 0 - Halan.md",
+                "file": "Journaux/Kyrin/Journal de Kara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 0 - Halan"
+              "title": "Journal de Kara"
             }
           }
         ]
@@ -198,8 +198,12 @@
   },
   "active": "dbf74d67d64591b7",
   "lastOpenFiles": [
-    "Commun/Les Pourfendeurs de l'ombre/Tome 2 - Un nouveau monde/Chapitre 1 - L'île mystérieuse.md",
+    "Journaux/Boron/Journal de Boron.md",
+    "Journaux/Kyrin/Journal de Kara.md",
     "Commun/Les Pourfendeurs de l'ombre/Tome 2 - Un nouveau monde/Chapitre 0 - Halan.md",
+    "Journaux/Kyrin",
+    "Journaux/Boron",
+    "Commun/Les Pourfendeurs de l'ombre/Tome 2 - Un nouveau monde/Chapitre 1 - L'île mystérieuse.md",
     "Journaux/Wailinor/2024-10-03.md",
     "Journaux/Wailinor/2024-05-31.md",
     "Journaux/Wailinor/2024-05-16.md",
@@ -222,8 +226,6 @@
     "Commun/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Chapitre 2 - Le village de Barovia.md",
     "Commun/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Chapitre 1 - La maison de l'horreur.md",
     "Commun/Les héros/Wailinor Velikov.md",
-    "Monde/06 - Objets/L'Interface.md",
-    "Journaux/Wailinor/2024-03-14 Halan.md",
     "Monde/10 - Règles Spéciales/Projets",
     "Monde/10 - Règles Spéciales",
     "Monde/09 - Véhicules",
@@ -231,8 +233,6 @@
     "Monde/07 - Organisations",
     "Monde/06 - Objets",
     "Monde/05 - Lieux",
-    "Monde/04 - Histoire",
-    "Monde/03 - Géographie",
-    "Commun/Les compagnons"
+    "Monde/04 - Histoire"
   ]
 }
