@@ -11,10 +11,21 @@
             "id": "dbf74d67d64591b7",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le dieu sombre"
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
             }
           }
         ]
@@ -89,6 +100,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +113,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Rétroliens"
+=======
+              "title": "Rétrolien pour Le dieu sombre"
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
             }
           },
           {
@@ -107,11 +126,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Liens sortants"
+=======
+              "title": "Liens sortants de Le dieu sombre"
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
             }
           },
           {
@@ -129,9 +156,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {},
               "icon": "lucide-list",
               "title": "Plan"
+=======
+              "state": {
+                "file": "Monde/01 - Dieux & Religions/Le dieu sombre.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Le dieu sombre"
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
             }
           }
         ],
@@ -190,6 +225,7 @@
   },
   "active": "4423732161221f1e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Journaux/Ethan",
     "Journaux/Alan",
     "Monde/01 - Dieux & Religions/EthanOle.md",
@@ -203,5 +239,12 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Journaux/Index.md"
+=======
+    "Monde/Index.md",
+    "Monde/01 - Dieux & Religions/Rêve-de-vie.md",
+    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+    "Journaux/Index.md",
+    "Monde/01 - Dieux & Religions"
+>>>>>>> 09821d4 (vault backup: 2024-11-23 14:52:36)
   ]
 }
