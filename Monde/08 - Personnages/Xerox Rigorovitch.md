@@ -1,0 +1,2 @@
+Jeune copiste qui travaillait a recopier les rares ouvrages disponibles en Barovie, il fut parmi les survivant emmené à bord du vaisseau de Xalfan. Depuis son arrivé sur l'île il exerce le rôle de scribe et chroniqueur pour le groupe de survivant. 
+Il est depuis peu l'apprenti de Wailinor Velikov.

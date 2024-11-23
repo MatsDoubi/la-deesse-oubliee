@@ -1,5 +1,5 @@
 
-## Dieux & Religions
+## [[Dieux & Religions|Dieux & Religions]]
 * [[Le dieu sombre]]
 * [[Rêve-de-vie]]
 
