@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md",
+                "file": "Monde/01 - Dieux & Religions/Le dieu sombre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exonid"
+              "title": "Le dieu sombre"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md",
+                "file": "Monde/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Exonid"
+              "title": "Rétrolien pour Index"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md",
+                "file": "Monde/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Exonid"
+              "title": "Liens sortants de Index"
             }
           },
           {
@@ -136,10 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md"
+                "file": "Monde/Index.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de Exonid"
+              "title": "Plan de Index"
             }
           }
         ],
@@ -198,13 +198,16 @@
   },
   "active": "dbf74d67d64591b7",
   "lastOpenFiles": [
-    "Journaux/Ethan/Jour x.md",
-    "Monde/02 - Ecologie/Exonid.md",
-    "Journaux/Ethan",
-    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
-    "Monde/02 - Ecologie",
     "Monde/Index.md",
+    "Monde/02 - Ecologie/Morgius & Morgi.md",
+    "Monde/02 - Ecologie/Tarrasque.md",
+    "Monde/02 - Ecologie/Evidés.md",
+    "Monde/02 - Ecologie/Exonids.md",
+    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
     "Monde/01 - Dieux & Religions/Rêve-de-vie.md",
+    "Journaux/Ethan/Jour x.md",
+    "Journaux/Ethan",
+    "Monde/02 - Ecologie",
     "Journaux/Index.md",
     "Monde/01 - Dieux & Religions"
   ]
