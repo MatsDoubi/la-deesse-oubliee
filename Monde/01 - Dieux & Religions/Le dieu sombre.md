@@ -1,0 +1,1 @@
+Il est le seul dieu présent après la grande disparition. Son nom a été rayé et gommé de l'histoire volontairement par les autorités afin d'éviter que la population ne s'y réfère et ne l'appelle par inadvertance. Ses adeptes sont chassés et exécutés.

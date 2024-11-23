@@ -11,10 +11,14 @@
             "id": "dbf74d67d64591b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Monde/Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Index"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Monde/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Index"
             }
           },
           {
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Monde/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Index"
             }
           },
           {
@@ -130,9 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Monde/Index.md"
+              },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Index"
             }
           }
         ],
@@ -189,9 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07b9bf913492cec8",
+  "active": "dbf74d67d64591b7",
   "lastOpenFiles": [
-    "Monde/Index.md",
-    "Journaux/Index.md"
+    "Monde/01 - Dieux & Religions/Rêve-de-vie.md",
+    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+    "Journaux/Index.md",
+    "Monde/01 - Dieux & Religions",
+    "Monde/Index.md"
   ]
 }
