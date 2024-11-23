@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md",
+                "file": "Journaux/Ethan/Jour x.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exonid"
+              "title": "Jour x"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -70,7 +70,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Signet"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Exonid"
+              "title": "Rétroliens"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Exonid"
+              "title": "Liens sortants"
             }
           },
           {
@@ -135,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Monde/02 - Ecologie/Exonid.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Plan de Exonid"
+              "title": "Plan"
             }
           }
         ],
@@ -159,7 +155,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Mots-clés"
+              "title": "Tags"
             }
           }
         ]
@@ -186,24 +182,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbf74d67d64591b7",
+  "active": "07b9bf913492cec8",
   "lastOpenFiles": [
-    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+    "Journaux/Ethan/Jour x.md",
     "Monde/02 - Ecologie/Exonid.md",
     "Monde/02 - Ecologie",
-    "Monde/Index.md",
+    "Journaux/Ethan",
+    "Journaux/Alan",
+    "Monde/01 - Dieux & Religions/EthanOle.md",
     "Monde/01 - Dieux & Religions/Rêve-de-vie.md",
-    "Journaux/Index.md",
-    "Monde/01 - Dieux & Religions"
+    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
+    "Monde/Index.md",
+    "Monde/01 - Dieux & Religions",
+    "Monde",
+    "Bienvenue.md",
+    "2024-11-23.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Journaux/Index.md"
   ]
 }
