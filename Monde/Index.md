@@ -4,7 +4,7 @@
 * [[Rêve-de-vie]]
 
 ## Ecologie
-* [[Exonids]]
+* [[Exonides]]
 * [[Evidés]]
 * [[Morgius & Morgi]]
 * [[Tarrasque]]
