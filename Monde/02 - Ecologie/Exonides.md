@@ -4,4 +4,4 @@ est construit autour de l’expansion et de la protection du terrier et leurs me
 
 On ne sait pas grand-chose de leur société, comme très peu on pu voir l'intérieur d'un terrier et vivre pour raconter l'histoire.
 
-Leur société est basée autour d'une seule reine qui pond les couvées vivantes et décide de leur rôle dans la colonie. La colonie elle-même, composée principalement d'ouvriers, est protégée par une armée de soldats hyperagressifs et des protecteurs plus rusés.
+Leur société est basée autour d'une seule reine qui pond les larves et décide de leur rôle dans la colonie. La colonie elle-même, composée principalement d'ouvriers, est protégée par une armée de soldats hyperagressifs et des protecteurs plus rusés.
