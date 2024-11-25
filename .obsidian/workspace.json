@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un nouveau monde/Chapitre 1 - L'île mystérieuse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenue"
+              "title": "Chapitre 1 - L'île mystérieuse"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#Chapitre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -211,8 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4423732161221f1e",
+  "active": "eb3f62d3fff7b88d",
   "lastOpenFiles": [
+    "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/La malédiction de Strahd.md",
+    "Journaux/Les pourfendeurs de l'ombre.md",
+    "Bienvenue.md",
     "Journaux/Joueurs/Halan",
     "Journaux/Joueurs",
     "Commun/Les héros/Boron.md",
@@ -240,14 +243,11 @@
     "Journaux/Joueurs/Wailinor/2024-04-04 L'atelier de Nodos.md",
     "Commun/Les héros/Helm Grandcerf.md",
     "Commun/Les compagnons/Xerox Rigorovitch.md",
-    "Journaux/Joueurs/Wailinor/2023-11-16 Vous bossez pendant qu'on se promène.md",
-    "Journaux/Joueurs/Wailinor/2023-11-09 On s'organise.md",
     "Monde/10 - Règles Spéciales/Projets",
     "Monde/10 - Règles Spéciales",
     "Monde/09 - Véhicules",
     "Monde/08 - Personnages",
     "Monde/07 - Organisations",
-    "Monde/06 - Objets",
-    "Monde/05 - Lieux"
+    "Monde/06 - Objets"
   ]
 }
