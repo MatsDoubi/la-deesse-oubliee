@@ -11,17 +11,10 @@
             "id": "dbf74d67d64591b7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sans titre.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sans titre"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -200,24 +193,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "07b9bf913492cec8",
+  "active": "dbf74d67d64591b7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
-    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.44_688158f1.jpg",
     "Files/Images/WhatsApp Image 2023-11-23 à 21.49.44_29f2fdb4.jpg",
-    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_8f2f7ea9.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.44_688158f1.jpg",
     "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_742f7079.jpg",
     "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_480a4079.jpg",
-    "Files/Images/WhatsApp Image 2023-11-21 à 22.03.03_ed1984af.jpg",
-    "Files/Images/WhatsApp Image 2023-11-21 à 22.03.03_0dbfb460.jpg",
-    "Files/Images/WhatsApp Image 2023-11-21 à 22.03.03_09699a5d.jpg",
-    "Files/Images/WhatsApp Image 2023-11-21 à 22.03.02_832620a3.jpg",
-    "Files/Images/WhatsApp Image 2023-11-21 à 22.03.02_767bc211.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_8f2f7ea9.jpg",
+    "Files/Images/page-35.jpg",
+    "Files/Images/page-34.jpg",
+    "Files/Images/page-36.jpg",
+    "Files/Images/page-30.jpg",
+    "Files/Images/page-32.jpg",
+    "Files/Images/page-33.jpg",
+    "Sans titre.canvas",
+    "Untitled.md",
+    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
     "Files/Images",
     "Files",
     "Bienvenue.md",
-    "Sans titre.canvas",
     "Monde/02 - Ecologie/Exonides.md",
     "Journaux/Les pourfendeurs de l'ombre.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Index - Un monde brisé.md",
@@ -243,7 +237,6 @@
     "Journaux/Joueurs/Wailinor/2024-03-14 Halan.md",
     "Journaux/Joueurs/Wailinor/2024-02-08 La mine 7.md",
     "Journaux/Joueurs/Wailinor/2023-12-14 La mine 3.md",
-    "Journaux/Joueurs/Wailinor/2024-02-28 La mine 8.md",
     "Journaux/Joueurs/Wailinor",
     "Journaux/Joueurs/Kyrin",
     "Journaux/Joueurs/Ethan",
