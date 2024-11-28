@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monde/07 - Organisations/Coeur-de-fer.md",
+                "file": "Journaux/Joueurs/Boron/2024-11-28 Le rêve continue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coeur-de-fer"
+              "title": "2024-11-28 Le rêve continue"
             }
           }
         ]
@@ -197,8 +197,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58f197ad538ef002",
+  "active": "4423732161221f1e",
   "lastOpenFiles": [
+    "Journaux/Joueurs/Boron/Le voyage dans le temps/Valdor Coeur-de-fer.md",
+    "Journaux/Joueurs/Boron/Le voyage dans le temps/Cognitius Nodos.md",
+    "Journaux/Joueurs/Boron/2024-11-28 Le rêve continue.md",
+    "Journaux/Joueurs/Boron/Journal de Boron.md",
+    "Journaux/Joueurs/Wailinor/2023-10-31 Quand on arrive en ville.md",
+    "Journaux/Joueurs/Kyrin/Journal de Kara.md",
+    "Journaux/Joueurs/Kara/Journal de Kara.md",
+    "Journaux/Joueurs/Ethan/Jour x.md",
+    "Journaux/Joueurs/Wailinor/2024-11-28.md",
+    "Monde/07 - Organisations/Coeur-de-fer.md",
+    "Journaux/Joueurs/Boron/Le voyage dans le temps",
+    "Journaux/Boron",
     "Monde/05 - Lieux/Ezdin.md",
     "Monde/05 - Lieux/Bizinbund la légendaire cité gnome.md",
     "Monde/04 - Histoire/La deuxième guerre draconique.md",
@@ -207,9 +219,7 @@
     "Monde/04 - Histoire/La troisième guerre draconique.md",
     "Monde/04 - Histoire/Timeline.md",
     "Monde/04 - Histoire/Naissance de l'empire Coeur-de-fer.md",
-    "Journaux/Joueurs/Wailinor/2024-11-28.md",
     "Journaux/Joueurs/Boron/Sans titre.md",
-    "Journaux/Joueurs/Boron/Journal de Boron.md",
     "Journaux/Joueurs/Wailinor/2024-10-03.md",
     "Monde/03 - Géographie/Valandar.md",
     "Monde/03 - Géographie/Les lunes.md",
@@ -217,14 +227,6 @@
     "Monde/03 - Géographie/Le grand stream.md",
     "Monde/02 - Ecologie/Tarrasque.md",
     "Monde/02 - Ecologie/Morgius & Morgi.md",
-    "Monde/02 - Ecologie/Evidés.md",
-    "Monde/02 - Ecologie/Exonides.md",
-    "Monde/01 - Dieux & Religions/Rêve-de-vie.md",
-    "Monde/01 - Dieux & Religions/Le dieu sombre.md",
-    "Monde/01 - Dieux & Religions/Dieux & Religions.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Index - Un monde brisé.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 1 - L'île mystérieuse.md",
     "Files/Images/page-4.jpg",
     "Files/Images/page-2.jpg",
     "Files/Images/page-1.jpg",
@@ -243,8 +245,6 @@
     "Journaux/Les Pourfendeurs de l'ombre",
     "Journaux/Joueurs/Wailinor",
     "Journaux/Joueurs/Kyrin",
-    "Journaux/Joueurs/Ethan",
-    "Journaux/Joueurs/Kara",
-    "Journaux/Joueurs/Boron"
+    "Journaux/Joueurs/Ethan"
   ]
 }
