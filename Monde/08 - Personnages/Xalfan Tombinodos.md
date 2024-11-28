@@ -1,3 +1,8 @@
+---
+aliases:
+  - Xalfan Tombinodos
+  - Xalfan
+---
 
 ## Descriptions
 
