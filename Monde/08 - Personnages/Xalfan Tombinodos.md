@@ -6,6 +6,8 @@ aliases:
 
 ## Descriptions
 
+dragonnet : smaug
+
 ### 
 
 ## Alliés
