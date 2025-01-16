@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journaux/Joueurs/Alan/Runnart.md",
+                "file": "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Runnart"
+              "title": "Rêve 1 - Une étrange compagnie"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -70,7 +70,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signet"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Monde/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Index"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Monde/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Index"
             }
           },
           {
@@ -133,9 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Monde/Index.md"
+              },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Index"
             }
           }
         ],
@@ -155,7 +159,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           }
         ]
@@ -182,67 +186,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "4423732161221f1e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Journaux/Joueurs/Ethan/Jour x.md",
     "Journaux/Joueurs/Alan/Séance 20250116.md",
     "Journaux/Joueurs/Alan/Runnart.md",
-    "Journaux/Ethan/20250116.md",
-    "Untitled.md",
-    "Sans titre.canvas",
-    "Monde/02 - Ecologie/Exonides.md",
-    "Journaux/Les pourfendeurs de l'ombre.md",
+    "Journaux/Joueurs/Alan",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Index - Un monde brisé.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 2 - Le voyage vers Ezdin.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 1 - L'île mystérieuse.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 0 - Halan.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Index - La malédiction de Strahd.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Chapitre 4 - Vallaki.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Chapitre 3 le voyage vers Vallaki.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Chapitre 2 - Le village de Barovia.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd/Chapitre 1 - La maison de l'horreur.md",
+    "Journaux/Joueurs/Kyrin/Journal de Kyrin.md",
+    "Journaux/Les pourfendeurs de l'ombre.md",
+    "Journaux/Joueurs/Kara/Journal de Kara.md",
+    "Journaux/Joueurs/Boron/2024-12-05 Retour vers le présent (mais qui pour certains est le futur).md",
+    "Untitled.md",
+    "Sans titre.canvas",
+    "Bienvenue.md",
+    "Journaux/Joueurs/Boron/2024-11-28 Le rêve continue.md",
+    "Monde/Index.md",
+    "Monde/07 - Organisations/Les inquisiteurs.md",
+    "Monde/07 - Organisations/Le concrégat.md",
+    "Monde/07 - Organisations/Coeur-de-fer.md",
+    "Monde/04 - Histoire/Naissance de l'empire Coeur-de-fer.md",
+    "Monde/04 - Histoire/La première guerre draconique.md",
+    "Monde/04 - Histoire/La grande inquisition.md",
+    "Monde/04 - Histoire/La deuxième guerre draconique.md",
+    "Monde/04 - Histoire/Timeline.md",
+    "Journaux/Joueurs/Boron/Journal de Boron.md",
+    "Journaux/Joueurs/Boron/Le voyage dans le temps/Cognitius Nodos.md",
+    "Files/Images/page-36.jpg",
+    "Files/Images/page-7.jpg",
+    "Files/Images/page-1.jpg",
+    "Journaux/Joueurs/Boron/Le voyage dans le temps",
+    "Journaux/Boron",
+    "Files/Images/page-4.jpg",
+    "Files/Images/page-2.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.44_29f2fdb4.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.44_688158f1.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_742f7079.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_480a4079.jpg",
+    "Files/Images/WhatsApp Image 2023-11-23 à 21.49.43_8f2f7ea9.jpg",
+    "Files/Images",
+    "Files",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 1 - La malédiction de Strahd",
     "Journaux/Les Pourfendeurs de l'ombre",
-    "Journaux/Joueurs/Boron/Le voyage dans le temps/Valdor Coeur-de-fer.md",
-    "Journaux/Joueurs/Boron/Le voyage dans le temps/Cognitius Nodos.md",
-    "Journaux/Joueurs/Wailinor/2024-11-28.md",
-    "Journaux/Joueurs/Wailinor/2024-05-31.md",
-    "Journaux/Joueurs/Wailinor/2024-10-03.md",
-    "Journaux/Joueurs/Wailinor/2024-05-16.md",
-    "Journaux/Joueurs/Wailinor/2024-05-02.md",
-    "Journaux/Joueurs/Wailinor/2024-04-18 Tapons le gros truc.md",
-    "Journaux/Joueurs/Wailinor/2024-04-11 Promenade sur l'île.md",
-    "Journaux/Joueurs/Wailinor/2024-04-04 L'atelier de Nodos.md",
-    "Journaux/Joueurs/Boron/Le voyage dans le temps",
     "Journaux/Joueurs/Wailinor",
-    "Journaux/Joueurs/Kyrin",
-    "Journaux/Joueurs/Kara",
-    "Journaux/Joueurs/Alan",
-    "Journaux/Joueurs/Boron",
-    "Journaux/Joueurs",
-    "Files/Images/page-9.jpg",
-    "Files/Images/page-8.jpg",
-    "Files/Images/page-7.jpg",
-    "Files/Images/page-6.jpg",
-    "Files/Images/page-5.jpg",
-    "Files/Images/page-4.jpg",
-    "Files/Images/page-36.jpg",
-    "Files/Images/page-35.jpg",
-    "Files/Images/page-34.jpg",
-    "Files/Images/page-33.jpg",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Journaux/Joueurs/Kyrin"
   ]
 }
