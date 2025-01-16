@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journaux/Joueurs/Alan/Séance 20250116.md",
+                "file": "Journaux/Joueurs/Alan/Runnart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Séance 20250116"
+              "title": "Runnart"
             }
           }
         ]
@@ -193,10 +193,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4423732161221f1e",
   "lastOpenFiles": [
-    "Journaux/Joueurs/Alan/Runnart.md",
     "Journaux/Joueurs/Alan/Séance 20250116.md",
+    "Journaux/Joueurs/Alan/Runnart.md",
     "Journaux/Ethan/20250116.md",
     "Untitled.md",
     "Sans titre.canvas",
