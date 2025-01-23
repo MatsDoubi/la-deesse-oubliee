@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 0 - Halan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapitre 0 - Halan"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -199,6 +195,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 0 - Halan.md",
     "Journaux/Joueurs/Alan/Séance 20250116.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
     "Journaux/Joueurs/Ethan/Jour x.md",
@@ -207,7 +204,6 @@
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Index - Un monde brisé.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 2 - Le voyage vers Ezdin.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 1 - L'île mystérieuse.md",
-    "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 0 - Halan.md",
     "Journaux/Joueurs/Kyrin/Journal de Kyrin.md",
     "Journaux/Les pourfendeurs de l'ombre.md",
     "Journaux/Joueurs/Kara/Journal de Kara.md",
