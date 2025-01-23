@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Monde/05 - Lieux/La grande cathédrale.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "La grande cathédrale"
             }
           }
         ]
@@ -195,6 +199,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Sans titre.canvas",
+    "Monde/05 - Lieux/La grande cathédrale.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Chapitre 0 - Halan.md",
     "Journaux/Joueurs/Alan/Séance 20250116.md",
     "Journaux/Les Pourfendeurs de l'ombre/Tome 2 - Un monde brisé/Rêve 1 - Une étrange compagnie.md",
@@ -209,7 +215,6 @@
     "Journaux/Joueurs/Kara/Journal de Kara.md",
     "Journaux/Joueurs/Boron/2024-12-05 Retour vers le présent (mais qui pour certains est le futur).md",
     "Untitled.md",
-    "Sans titre.canvas",
     "Bienvenue.md",
     "Journaux/Joueurs/Boron/2024-11-28 Le rêve continue.md",
     "Monde/Index.md",
@@ -221,8 +226,6 @@
     "Monde/04 - Histoire/La grande inquisition.md",
     "Monde/04 - Histoire/La deuxième guerre draconique.md",
     "Monde/04 - Histoire/Timeline.md",
-    "Journaux/Joueurs/Boron/Journal de Boron.md",
-    "Journaux/Joueurs/Boron/Le voyage dans le temps/Cognitius Nodos.md",
     "Files/Images/page-36.jpg",
     "Files/Images/page-7.jpg",
     "Files/Images/page-1.jpg",
